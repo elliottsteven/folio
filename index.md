@@ -1,37 +1,17 @@
-# Welcome to my test site built in GitHub Pages
+# Just playing around on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/elliottsteven/folio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm just experimenting to see how much I could feasibly do using GitHub Pages. Having the most basic coding skills, I'm not sure I'll get very far.
+I've used markdown in [Ghost](https://www.ghost.io) before so that may be useful. I'm also using a Jekyll theme so it should look presentable. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I'd like to be able to do
+- Create and edit pages
+- Insert images
+- Create an index
 
-### Markdown
+### Internal notes for my consumption only
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm leaving this link to[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) here for my future reference.
 
-```markdown
-Syntax highlighted code block
+Change the Jekyll theme selected in [repository settings](https://github.com/elliottsteven/folio/settings). The name of this theme (Minimal) is saved in the Jekyll `_config.yml` configuration file.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliottsteven/folio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Link to full [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact).
