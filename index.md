@@ -5,7 +5,7 @@ I've used markdown in [Ghost](https://www.ghost.io) before so that may be useful
 
 ## What I'd like to be able to do
 - Create and edit pages
-- Insert images
+- Insert some images
 - Create some basic navigation
 
 ## See my current Projects
