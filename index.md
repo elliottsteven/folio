@@ -1,12 +1,15 @@
 # Just playing around on GitHub Pages
 
 I'm just experimenting to see how much I could feasibly do using GitHub Pages. Having the most basic coding skills, I'm not sure I'll get very far.
-I've used markdown in [Ghost](https://www.ghost.io) before so that may be useful. I'm also using a Jekyll theme so it should look presentable. 
+I've used markdown in [Ghost](https://www.ghost.io) before so that may be useful. I'm also using a Jekyll theme so it should look presentable.
 
 ## What I'd like to be able to do
 - Create and edit pages
 - Insert images
 - Create an index
+
+## See my current Projects
+Here's a [second page on the website](https://elliottsteven.github.io/folio/projects) where I link off to my current projects.
 
 ### Internal notes for my consumption only
 
