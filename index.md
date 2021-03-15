@@ -10,7 +10,7 @@ I've used markdown in [Ghost](https://www.ghost.io) before so that may be useful
 
 ### Internal notes for my consumption only
 
-I'm leaving this link to[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) here for my future reference.
+I'm leaving this link to [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) here for my future reference.
 
 Change the Jekyll theme selected in [repository settings](https://github.com/elliottsteven/folio/settings). The name of this theme (Minimal) is saved in the Jekyll `_config.yml` configuration file.
 
